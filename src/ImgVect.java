@@ -70,7 +70,7 @@ public class ImgVect {
     }
 
     public void ordinaImmagini() {
-        Arrays.sort(vetForme);
+        Arrays.sort(vetForme, 0, contatoreImmagini);
     }
 
 }

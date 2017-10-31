@@ -1,4 +1,4 @@
-public abstract class Forma implements Comparable{
+public abstract class Forma implements Comparable {
 
     public Forma(Colore colore) {
         this.colore = colore;
@@ -14,13 +14,13 @@ public abstract class Forma implements Comparable{
     public abstract double area();
 
     public int compareTo(Object f) {
-        if (this.area() >= ((Forma)f).area()){
+        if (this.area() > ((Forma)f).area()){
             return 1;
         }
-        else if (this.area() <= ((Forma)f).area()){
+        else if (this.area() < ((Forma)f).area()){
             return -1;
         }
-        else return 0;
+        return 0;
     }
 
 }
