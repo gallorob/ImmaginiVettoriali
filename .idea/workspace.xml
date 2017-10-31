@@ -15,14 +15,9 @@
       <file leaf-file-name="Forma.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Forma.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-              <folding>
-                <element signature="e#63#64#0" expanded="true" />
-                <element signature="e#99#100#0" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="198">
+              <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -40,15 +35,10 @@
       <file leaf-file-name="Cerchio.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Cerchio.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="30" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="22" selection-end-column="30" />
+            <state relative-caret-position="234">
+              <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
               <folding>
-                <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#236#237#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-                <element signature="e#315#316#0" expanded="true" />
-                <element signature="e#343#344#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
+                <element signature="method#Cerchio#0;class#Cerchio#0" expanded="false" />
                 <element signature="e#537#538#0" expanded="true" />
               </folding>
             </state>
@@ -58,17 +48,10 @@
       <file leaf-file-name="Quadrato.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Quadrato.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            <state relative-caret-position="180">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#505#506#0" expanded="true" />
+                <element signature="method#Quadrato#0;class#Quadrato#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -77,40 +60,40 @@
       <file leaf-file-name="Rettangolo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Rettangolo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="28" column="80" lean-forward="false" selection-start-line="28" selection-start-column="80" selection-end-line="28" selection-end-column="80" />
+            <state relative-caret-position="270">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
-                <element signature="e#260#261#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#465#466#0" expanded="true" />
-                <element signature="e#512#513#0" expanded="true" />
+                <element signature="method#Rettangolo#0;class#Rettangolo#0" expanded="false" />
+                <element signature="method#toString#0;class#Rettangolo#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImgVect.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ImgVect.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ImgVect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="838">
-              <caret line="65" column="42" lean-forward="false" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="42" />
+            <state relative-caret-position="407">
+              <caret line="71" column="17" lean-forward="false" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
               <folding>
-                <element signature="e#446#447#0" expanded="true" />
-                <element signature="e#486#487#0" expanded="true" />
+                <element signature="method#ImgVect#0;class#ImgVect#0" expanded="false" />
+                <element signature="method#aggiungiForma#0;class#ImgVect#0" expanded="false" />
+                <element signature="method#getAreaTotale#0;class#ImgVect#0" expanded="false" />
+                <element signature="method#getPerimetroTotale#0;class#ImgVect#0" expanded="false" />
+                <element signature="method#getAreaColore#0;class#ImgVect#0" expanded="false" />
+                <element signature="method#getPerimetroColore#0;class#ImgVect#0" expanded="false" />
+                <element signature="e#1986#1987#0" expanded="true" />
+                <element signature="e#2023#2024#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tester.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Tester.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <state relative-caret-position="360">
+              <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -134,11 +117,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Colore.java" />
-        <option value="$PROJECT_DIR$/src/Forma.java" />
         <option value="$PROJECT_DIR$/src/imgVect.java" />
         <option value="$PROJECT_DIR$/src/Cerchio.java" />
         <option value="$PROJECT_DIR$/src/Quadrato.java" />
         <option value="$PROJECT_DIR$/src/Rettangolo.java" />
+        <option value="$PROJECT_DIR$/src/Forma.java" />
         <option value="$PROJECT_DIR$/src/ImgVect.java" />
         <option value="$PROJECT_DIR$/src/Tester.java" />
       </list>
@@ -316,12 +299,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509456344609</updated>
-      <workItem from="1509456350405" duration="5038000" />
+      <workItem from="1509456350405" duration="8593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5038000" />
+    <option name="totallyTimeSpent" value="8593000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="387" y="65" width="1855" height="1084" extended-state="6" />
@@ -364,20 +347,28 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Forma.java">
+    <entry file="file://$PROJECT_DIR$/src/Quadrato.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        <state relative-caret-position="180">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <element signature="e#63#64#0" expanded="true" />
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
+            <element signature="method#Quadrato#0;class#Quadrato#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Rettangolo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="method#Rettangolo#0;class#Rettangolo#0" expanded="false" />
+            <element signature="method#toString#0;class#Rettangolo#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -392,70 +383,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Cerchio.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="30" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="22" selection-end-column="30" />
+        <state relative-caret-position="234">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
           <folding>
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
+            <element signature="method#Cerchio#0;class#Cerchio#0" expanded="false" />
             <element signature="e#537#538#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Rettangolo.java">
+    <entry file="file://$PROJECT_DIR$/src/Forma.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="80" lean-forward="false" selection-start-line="28" selection-start-column="80" selection-end-line="28" selection-end-column="80" />
-          <folding>
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ImgVect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="838">
-          <caret line="65" column="42" lean-forward="false" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="42" />
-          <folding>
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Quadrato.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="198">
+          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        <state relative-caret-position="360">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ImgVect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="71" column="17" lean-forward="false" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+          <folding>
+            <element signature="method#ImgVect#0;class#ImgVect#0" expanded="false" />
+            <element signature="method#aggiungiForma#0;class#ImgVect#0" expanded="false" />
+            <element signature="method#getAreaTotale#0;class#ImgVect#0" expanded="false" />
+            <element signature="method#getPerimetroTotale#0;class#ImgVect#0" expanded="false" />
+            <element signature="method#getAreaColore#0;class#ImgVect#0" expanded="false" />
+            <element signature="method#getPerimetroColore#0;class#ImgVect#0" expanded="false" />
+            <element signature="e#1986#1987#0" expanded="true" />
+            <element signature="e#2023#2024#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

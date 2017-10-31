@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class ImgVect {
 
     private final int MAX_IMG;
@@ -65,6 +67,10 @@ public class ImgVect {
         for(int i = 0; i < contatoreImmagini; i++) {
             System.out.println(vetForme[i]);
         }
+    }
+
+    public void ordinaImmagini() {
+        Arrays.sort(vetForme);
     }
 
 }

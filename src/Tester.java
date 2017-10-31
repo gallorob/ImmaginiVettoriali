@@ -17,7 +17,9 @@ public class Tester {
         System.out.println(v1.getAreaColore(Colore.BLACK));
         System.out.println(v1.getPerimetroColore(Colore.BLACK));
 
-        
+        v1.ordinaImmagini();
+        v1.stampaForme();
+
     }
 
 }
