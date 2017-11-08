@@ -1,16 +1,11 @@
-public class Tester {
+public class TestImmagini {
 
     public static void main(String[] args) {
         ImgVect v1 = new ImgVect(4);
 
-        Forma f1 = new Cerchio(Colore.BLACK,3.);
-        Forma f2 = new Quadrato(Colore.RED,10.);
-        Forma f3 = new Rettangolo(Colore.BLACK,3,4);
-        v1.aggiungiForma(f1);
-        //System.out.println(v1.getContatoreImmagini());
-        v1.aggiungiForma(f2);
-        //System.out.println(v1.getContatoreImmagini());
-        v1.aggiungiForma(f3);
+        v1.aggiungiForma(new Quadrato(Colore.RED, 5.));
+        v1.aggiungiForma(new Cerchio(Colore.BLACK,3));
+        v1.aggiungiForma(new Rettangolo(Colore.BLACK,3,4));
 
         v1.stampaForme();
 
@@ -18,6 +13,8 @@ public class Tester {
         System.out.println(v1.getPerimetroTotale());
         System.out.println(v1.getAreaColore(Colore.BLACK));
         System.out.println(v1.getPerimetroColore(Colore.BLACK));
+        System.out.println(v1.getPerimetroColore(Colore.BLUE));
+        System.out.println(v1.getAreaColore(Colore.YELLOW));
 
         v1.ordinaImmagini();
         v1.stampaForme();

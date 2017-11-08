@@ -14,7 +14,7 @@ public abstract class Forma implements Misurabile, Comparable<Forma> {
     public abstract double getArea();
 
     public int compareTo(Forma f) {
-        //Double.compare(this.getArea(), f.getArea());
+        Double.compare(this.getArea(), f.getArea());
 
         if (this.getArea() > f.getArea()){
             return 1;

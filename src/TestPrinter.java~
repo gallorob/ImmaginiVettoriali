@@ -15,11 +15,19 @@ public class TestPrinter {
 
         prnt.checkCartridgesLevel(v1);
 
-        prnt.stampa(v1);
-        
+        try {
+            prnt.stampa(v1);
+        } catch (Exception e) {
+
+        }
+
         prnt.showCartridgesLevel();
 
-        prnt.stampa(v1);
+        try {
+            prnt.stampa(v1);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 
 }

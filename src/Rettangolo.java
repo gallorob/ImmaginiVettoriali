@@ -16,16 +16,16 @@ public class Rettangolo extends Forma {
         return altezza;
     }
 
-    public double perimetro() {
+    public double getPerimetro() {
         return ((this.base + this.altezza)*2);
     }
 
-    public double area() {
+    public double getArea() {
         return (this.base*this.altezza);
     }
 
     @Override
     public String toString() {
-        return ("Rettangolo; Base: " + this.base + "Altezza: " + this.altezza + " ; Colore: " + this.getColore());
+        return ("Rettangolo; Base: " + this.base + "; Altezza: " + this.altezza + "; Colore: " + this.getColore());
     }
 }

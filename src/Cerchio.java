@@ -11,11 +11,11 @@ public class Cerchio extends Forma {
         return raggio;
     }
 
-    public double perimetro() {
+    public double getPerimetro() {
         return (this.raggio*2*Math.PI);
     }
 
-    public double area() {
+    public double getArea() {
         return (Math.PI*Math.pow(this.raggio,2));
     }
 
